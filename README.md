@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![header](https://capsule-render.vercel.app/api?type=waving)
-![header](https://capsule-render.vercel.app/api?text=Nahyun&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?text=Nahyun&fontColor=d6ace6&type=waving)
