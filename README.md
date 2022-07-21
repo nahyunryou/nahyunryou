@@ -16,8 +16,4 @@ Here are some ideas to get you started:
 
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving)
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=40)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlign=70)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?text=Nahyun&fontColor=d6ace6)
