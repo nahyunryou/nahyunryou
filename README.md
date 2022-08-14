@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=white">
   </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/sas-FF4F8B?style=for-the-badge&logo=sas">
   <img src="https://img.shields.io/badge/spss-5000B9?style=for-the-badge&logo=spss">
