@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=CED8F6&height=200&section=header&text=NahyunRyou&fontSize=70&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=CED8F6&height=200&section=header&text=NahyunRyou&fontSize=70&fontColor=white)
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
