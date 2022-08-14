@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=NahyunRyou&fontSize=70&animation=twinkling)
 
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/R-#276DC3?style=for-the-badge&logo=R&logoColor=black">
